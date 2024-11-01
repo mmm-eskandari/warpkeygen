@@ -15,6 +15,8 @@ or Using `wget`
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/mmm-eskandari/warpkeygen/refs/heads/main/setup.sh)
 ```
+> [!TIP]
+> You can also use this script on [Terminator](https://terminator.aeza.net/en/ "Terminator"), an online terminal emulator.
 
 ### Requirements
 - Ubuntu or Debian-based OS
