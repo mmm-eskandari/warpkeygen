@@ -1,6 +1,9 @@
 # Warp Plus Key Generator Setup Script
 This repository provides a simple Bash script to automate the setup of WarpPlusKeyGenerator-NG, a tool for generating Cloudflare Warp+ keys.
 
+> [!CAUTION]
+> The generator **will not work properly** because Cloudflare has concluded its referral program. To get the WARP+ experience, You can use the Zero Trust insted ;) 
+
 The `setup.sh` script installs necessary dependencies, clones the [WarpPlusKeyGenerator-NG](https://github.com/0x24a/WarpPlusKeyGenerator-NG "WarpPlusKeyGenerator-NG") repository, creates a virtual environment, installs required Python packages, and runs the main script. This allows you to set up and run the Warp Plus Key Generator with a single command.
 
 ## Quick Start
